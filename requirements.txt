@@ -1,0 +1,13 @@
+langchain
+langchain_groq
+langchain_huggingface
+langchain-pinecone
+pinecone
+langchain_community
+langchain_core
+langchain_text_splitters
+langchain_classic
+streamlit
+ipykernel
+faiss-cpu
+sentence-transformers
